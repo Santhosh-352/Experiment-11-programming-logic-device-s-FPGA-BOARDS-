@@ -12,8 +12,8 @@ Quartus prime
 3. Turn on the Program/Configure option for the added file.
 4. Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
 ```
-Developed by: H.Syed Abdul Wasih
-Reg.no  : 212221240057
+Developed by: Santhosh G
+Reg.no  : 212221053003
 ```
 ### Output:
 ![WhatsApp Image 2022-11-22 at 17 52 42](https://user-images.githubusercontent.com/94269989/203319654-3275a680-8305-4338-b4ae-2e00d1fcb629.jpg)
